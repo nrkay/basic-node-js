@@ -1,0 +1,8 @@
+1. Untuk membuat Proyek Node.js kita menggunakan NMP (Javascript Package Manager bawaan dari Node js).
+Dengan adanya NPM ini kita dapat mengelolah penggunaaan package eksternal yang digunakan. Caranya jalankan "npm init" pada directory tempat kita akan menyimpan projek Node.js kita.
+2. Aada 2 cara kita menjalankan kode Javascript, yaitu menggunakan node.js dan mengeksekusi berkas yang berekstensi JS.
+3. Node js memiliki fiture REPL atau Read-Eval-Print-Loop (berfungsi untuk membaca kode Javascript).
+4. Untuk menjalankan program Javascript menggunakan node yang ekekstensi JS cukup dengan ketik diterminal "node index.js"
+5. Javascript mempunyai object global yang memiliki kontrol pada browser karna terdapat object window (seperti mengunjungi laman, memuat ulang, dll), akan tetapi dapat mengontrol env pada komputer, dengan adanya Node.js memberika keluasan pada jvascript untuk menontrol env.
+6. Salah satu object global dalam node.js yang penting dipahami yaitu object process. alam ilmu komputer, process adalah sebuah program yang dijalankan pada satu atau lebih thread.
+7. Mempelajari module HTTP, salah satu method yang penting yaitu http.createServer()
